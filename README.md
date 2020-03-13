@@ -1,6 +1,6 @@
 ## PSU_2019_malloc
 
-Recode the standard LIBC function malloc in c using a best fit algorithm
+Recode the standard LIBC function malloc realloc calloc free realloc_array in c using a best fit algorithm
 
 ## How to use
 
